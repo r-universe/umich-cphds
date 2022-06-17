@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bama"]
+	path = bama
+	url = https://github.com/umich-cphds/bama
+	shallow = true
+	registered = true
+[submodule "gigg"]
+	path = gigg
+	url = https://github.com/umich-cphds/gigg
+	shallow = true
+	registered = true
+[submodule "lodi"]
+	path = lodi
+	url = https://github.com/umich-cphds/lodi
+	shallow = true
+	registered = true
+[submodule "subgxe"]
+	path = subgxe
+	url = https://github.com/umich-cphds/subgxe
+	shallow = true
+	registered = true
