@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "lodi",
-    "oncran": true
-  },
-  {
     "package": "subgxe",
     "oncran": true
   }
