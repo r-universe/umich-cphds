@@ -13,6 +13,11 @@
 	url = https://github.com/umich-cphds/gigg
 	shallow = true
 	registered = true
+[submodule "lodi"]
+	path = lodi
+	url = https://github.com/umich-cphds/lodi
+	shallow = true
+	registered = true
 [submodule "subgxe"]
 	path = subgxe
 	url = https://github.com/umich-cphds/subgxe
