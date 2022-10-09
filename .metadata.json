@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "medScan",
+    "oncran": true
+  },
+  {
     "package": "subgxe",
     "oncran": true
   }

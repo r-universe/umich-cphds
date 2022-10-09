@@ -18,6 +18,11 @@
 	url = https://github.com/umich-cphds/lodi
 	shallow = true
 	registered = true
+[submodule "medScan"]
+	path = medScan
+	url = https://github.com/umich-cphds/medscan
+	shallow = true
+	registered = true
 [submodule "subgxe"]
 	path = subgxe
 	url = https://github.com/umich-cphds/subgxe
