@@ -1,6 +1,6 @@
 [
   {
-    "package": "medScan",
+    "package": "bama",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "bama",
+    "package": "lodi",
     "oncran": true
   },
   {
-    "package": "lodi",
+    "package": "medScan",
     "oncran": true
   },
   {
