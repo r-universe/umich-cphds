@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bama"]
-	path = bama
-	url = https://github.com/umich-cphds/bama
+[submodule "medScan"]
+	path = medScan
+	url = https://github.com/umich-cphds/medscan
 	shallow = true
 	registered = true
 [submodule "gigg"]
@@ -13,14 +13,14 @@
 	url = https://github.com/umich-cphds/gigg
 	shallow = true
 	registered = true
+[submodule "bama"]
+	path = bama
+	url = https://github.com/umich-cphds/bama
+	shallow = true
+	registered = true
 [submodule "lodi"]
 	path = lodi
 	url = https://github.com/umich-cphds/lodi
-	shallow = true
-	registered = true
-[submodule "medScan"]
-	path = medScan
-	url = https://github.com/umich-cphds/medscan
 	shallow = true
 	registered = true
 [submodule "subgxe"]
