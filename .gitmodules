@@ -14,6 +14,9 @@
 [submodule "medScan"]
 	path = medScan
 	url = https://github.com/umich-cphds/medscan
+[submodule "messi"]
+	path = messi
+	url = https://github.com/umich-cphds/messi
 [submodule "subgxe"]
 	path = subgxe
 	url = https://github.com/umich-cphds/subgxe
