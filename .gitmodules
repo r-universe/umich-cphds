@@ -8,15 +8,9 @@
 [submodule "gigg"]
 	path = gigg
 	url = https://github.com/umich-cphds/gigg
-[submodule "lodi"]
-	path = lodi
-	url = https://github.com/umich-cphds/lodi
 [submodule "medScan"]
 	path = medScan
 	url = https://github.com/umich-cphds/medscan
 [submodule "messi"]
 	path = messi
 	url = https://github.com/umich-cphds/messi
-[submodule "subgxe"]
-	path = subgxe
-	url = https://github.com/umich-cphds/subgxe
